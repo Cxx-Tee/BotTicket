@@ -1,0 +1,15 @@
+{
+  "token": "<YOUR_BOT_TOKEN>",
+  "clientId": "<YOUR_CLIENT_ID>",
+  "guildId": "<YOUR_GUILD_ID>",
+  "categoryId": {
+    "support": "<YOUR_SUPPORT_CATEGORY_ID>",
+    "report": "<YOUR_REPORT_CATEGORY_ID>",
+    "donate": "<YOUR_DONATE_CATEGORY_ID>"
+  },
+  "logChannelId": "<YOUR_LOG_CHANNEL_ID>",
+  "supportRoleId": "<YOUR_SUPPORT_ROLE_ID>",
+  "adminRoleId": "<YOUR_ADMIN_ROLE_ID>",
+  "viewerRoleId": "<YOUR_VIEWER_ROLE_ID>",
+  "inactiveTimeoutHours": 24
+}
